@@ -8,9 +8,6 @@ const Header = () => (
       <li>
         <Link to="/">Main Page</Link>
       </li>
-      <li>
-        <Link to="/characters/:_id">Details Page</Link>
-      </li>
     </ul>
   </div>
 );
