@@ -14,13 +14,6 @@ exports[`Header component renders Header 1`] = `
           Main Page
         </a>
       </li>
-      <li>
-        <a
-          href="/characters/:_id"
-        >
-          Details Page
-        </a>
-      </li>
     </ul>
   </div>
 </DocumentFragment>
